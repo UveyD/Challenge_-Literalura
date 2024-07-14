@@ -47,4 +47,6 @@ Listando libros para 4 idiomas, EN, SP, Fr y Pt:
 ## Contacto
 Para más información o preguntas sobre este proyecto, puedes contactarme a través de:
 - Correo electrónico: Uveyd3214@gmail.com
+  
+![badge literalura](https://github.com/user-attachments/assets/b9c8a263-79df-4d80-9f2b-c12545ff1c21)
 
